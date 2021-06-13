@@ -1,6 +1,6 @@
 # Python Practices
 
-A collection of books, articles, videos, repos and other resources related good practices in Python, including hexagonal architecture, domain-driven design, etc.
+This is a collection of books, articles, videos, repos and other resources related good practices in Python, including hexagonal architecture, domain-driven design, etc.. Some of them may not be specific to Python, but all of them should be applicable to Python development.
 
 # Domain-Driven Design
 
