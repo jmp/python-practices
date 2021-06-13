@@ -7,7 +7,7 @@ This is a collection of books, articles, videos, repos and other resources relat
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A book about Domain-Driven Design, event-driven microservices and related topics in Python.
 * [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - An attempt to apply Domain-Driven Design principles to Django apps.
 
-# Hexagonal architecture (ports and adapters)
+# Ports & Adapters (Hexagonal Architecture)
 
 * [BasicWolf/hexagonal-architecture-django](https://github.com/BasicWolf/hexagonal-architecture-django) - One way of doing hexagonal architecture with Django
 * [rklyne/hexagonal-django](https://github.com/rklyne/hexagonal-django) - An experiment with two approaches to doing ports and adapters with Django
