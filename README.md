@@ -24,3 +24,7 @@ This is a collection of books, articles, videos, repos and other resources relat
 ## Criticism
 
 * [rklyne/hexagonal-django](https://github.com/rklyne/hexagonal-django) - An experiment with two approaches to doing ports and adapters with Django. The conclusion is that fighting the [Active Record](https://www.martinfowler.com/eaaCatalog/activeRecord.html) pattern used by Django ORM is not worth it.
+
+# Clean Architecture
+
+* [Implementing the Clean Architecture](https://leanpub.com/implementing-the-clean-architecture) by Sebastian Buczyński
