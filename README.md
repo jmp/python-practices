@@ -4,6 +4,8 @@ This is a collection of books, articles, videos, repos and other resources relat
 
 # Domain-Driven Design
 
+* Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software* (1st ed.). Addison-Wesley Professional.
+* Vernon, V. (2013). *Implementing Domain-Driven Design* (1st ed.). Addison-Wesley Professional.
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A book about Domain-Driven Design, event-driven microservices and related topics in Python.
 * [Django API Domains](https://github.com/phalt/django-api-domains) - An attempt to apply Domain-Driven Design principles to Django apps.
 
