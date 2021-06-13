@@ -16,6 +16,7 @@ This is a collection of books, articles, videos, repos and other resources relat
 
 # Ports & Adapters (Hexagonal Architecture)
 
+* [Hexagonal architecture](https://web.archive.org/web/20210301122446if_/https://alistair.cockburn.us/hexagonal-architecture/) by Alistair Cockburn.
 * [BasicWolf/hexagonal-architecture-django](https://github.com/BasicWolf/hexagonal-architecture-django) - One way of doing hexagonal architecture with Django
 * [Oscar-Garcia/django-hexarch-example](https://github.com/Oscar-Garcia/django-hexarch-example) - Slides and example code for applying hexagonal architecture to Django projects
 * [GArmane/python-fastapi-hex-todo](https://github.com/GArmane/python-fastapi-hex-todo) - A todo list application in Python using FastAPI and hexagonal architecture.
