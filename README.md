@@ -8,6 +8,7 @@ This is a collection of books, articles, videos, repos and other resources relat
 * Vernon, V. (2013). *Implementing Domain-Driven Design* (1st ed.). Addison-Wesley Professional.
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A book about Domain-Driven Design, event-driven microservices and related topics in Python.
 * [Django API Domains](https://github.com/phalt/django-api-domains) - An attempt to apply Domain-Driven Design principles to Django apps.
+* [Domain Driven Design Patterns in Python](https://www.youtube.com/watch?v=Ru2T4fu3bGQ) - Lecture by Robert Smallshire about DDD topics at EuroPython 2018.
 
 ## Criticism
 
