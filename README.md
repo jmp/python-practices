@@ -18,6 +18,7 @@ This is a collection of books, articles, videos, repos and other resources relat
 
 * [BasicWolf/hexagonal-architecture-django](https://github.com/BasicWolf/hexagonal-architecture-django) - One way of doing hexagonal architecture with Django
 * [Oscar-Garcia/django-hexarch-example](https://github.com/Oscar-Garcia/django-hexarch-example) - Slides and example code for applying hexagonal architecture to Django projects
+* [GArmane/python-fastapi-hex-todo](https://github.com/GArmane/python-fastapi-hex-todo) - A todo list application in Python using FastAPI.
 
 ## Criticism
 
