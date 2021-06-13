@@ -5,6 +5,7 @@ This is a collection of books, articles, videos, repos and other resources relat
 # Domain-Driven Design
 
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A book about Domain-Driven Design, event-driven microservices and related topics in Python.
+  * [Against service layers in Django](https://www.b-list.org/weblog/2020/mar/16/no-service/) - A criticism against using a "service layer" approach with Django.
 * [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - An attempt to apply Domain-Driven Design principles to Django apps.
 
 # Ports & Adapters (Hexagonal Architecture)
