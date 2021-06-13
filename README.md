@@ -27,4 +27,5 @@ This is a collection of books, articles, videos, repos and other resources relat
 
 # Clean Architecture
 
-* [Implementing the Clean Architecture](https://leanpub.com/implementing-the-clean-architecture) by Sebastian Buczyński
+* [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) lecture by Brandon Rhodes at PyOhio 2014
+* [Implementing the Clean Architecture](https://leanpub.com/implementing-the-clean-architecture), book by Sebastian Buczyński
