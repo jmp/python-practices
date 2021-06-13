@@ -5,7 +5,7 @@ This is a collection of books, articles, videos, repos and other resources relat
 # Domain-Driven Design
 
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A book about Domain-Driven Design, event-driven microservices and related topics in Python.
-* [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - An attempt to apply Domain-Driven Design principles to Django apps.
+* [Django API Domains](https://github.com/phalt/django-api-domains) - An attempt to apply Domain-Driven Design principles to Django apps.
 
 ## Criticism
 
