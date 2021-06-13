@@ -1,10 +1,11 @@
-# Python Practices
+# Python Practices & Resources
 
 This is a collection of books, articles, videos, repos and other resources related good practices in Python, including hexagonal architecture, domain-driven design, etc.. Some of them may not be specific to Python, but all of them should be applicable to Python development.
 
 # Domain-Driven Design
 
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - A book about Domain-Driven Design, event-driven microservices and related topics in Python.
+* [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - An attempt to apply Domain-Driven Design principles to Django apps.
 
 # Hexagonal architecture (ports and adapters)
 
