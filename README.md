@@ -2,6 +2,10 @@
 
 This is a collection of books, articles, videos, repos and other resources related good practices in Python, including hexagonal architecture, domain-driven design, etc.. Some of them may not be specific to Python, but all of them should be applicable to Python development.
 
+# Test-Driven Development
+
+* [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html) by Harry Percival.
+
 # Domain-Driven Design
 
 * Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software* (1st ed.). Addison-Wesley Professional.
