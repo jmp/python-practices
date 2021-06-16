@@ -46,6 +46,7 @@ This is a collection of books, articles, videos, repos and other resources relat
 ### Videos
 
 * [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) by Brandon Rhodes at PyOhio 2014
+* [Clean Architectures in Python](https://www.youtube.com/watch?v=wtCQalq7L-E) by Leonardo Giordani at PyLondinium 2019
 
 ### Books
 
