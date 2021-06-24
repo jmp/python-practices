@@ -4,7 +4,15 @@ This is a collection of books, articles, videos, repos and other resources relat
 
 ## Test-Driven Development
 
+### Books
+
 * [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html) by Harry Percival
+
+### Videos
+
+* [Test Driven Development - What? Why? And How?](https://www.youtube.com/watch?v=llaUBH5oayw) by Dave Farley
+* [When Test Driven Development Goes Wrong](https://www.youtube.com/watch?v=UWtEVKVPBQ0) by Dave Farley
+* [Test Driven Development vs Behavior Driven Development](https://www.youtube.com/watch?v=Bq_oz7nCNUA) by Dave Farley
 
 ## Trunk Based Development
 
