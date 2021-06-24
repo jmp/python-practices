@@ -8,11 +8,11 @@ This is a collection of books, articles, videos, repos and other resources relat
 
 ## Trunk Based Development
 
-## Websites
+### Websites
 
 * [Trunk Based Development](https://trunkbaseddevelopment.com)
 
-## Videos
+### Videos
 
 * [Continuous Integration vs Feature Branch Workflow](https://www.youtube.com/watch?v=v4Ijkq6Myfc) by Dave Farley
 * [Why CI is BETTER Than Feature Branching](https://www.youtube.com/watch?v=lXQEi1O5IOI) by Dave Farley
