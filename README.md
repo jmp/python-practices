@@ -6,6 +6,17 @@ This is a collection of books, articles, videos, repos and other resources relat
 
 * [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html) by Harry Percival
 
+## Trunk Based Development
+
+## Websites
+
+* [Trunk Based Development](https://trunkbaseddevelopment.com)
+
+## Videos
+
+* [Continuous Integration vs Feature Branch Workflow](https://www.youtube.com/watch?v=v4Ijkq6Myfc) by Dave Farley
+* [Why CI is BETTER Than Feature Branching](https://www.youtube.com/watch?v=lXQEi1O5IOI) by Dave Farley
+
 ## Domain-Driven Design
 
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) by Harry Percival & Bob Gregory
